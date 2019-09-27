@@ -1,0 +1,24 @@
+{
+  "name": "tweetertrendwall",
+  "version": "1.0.0",
+  "description": "Tweeter Trend WallPaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalBheda/tweeter-trend-wallpaper.git"
+  },
+  "keywords": [
+    "Tweeter",
+    "Trend",
+    "Wallpaper"
+  ],
+  "author": "Vb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalBheda/tweeter-trend-wallpaper/issues"
+  },
+  "homepage": "https://github.com/VishalBheda/tweeter-trend-wallpaper#readme"
+}
